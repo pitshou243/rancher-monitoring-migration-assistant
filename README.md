@@ -2,7 +2,7 @@
 
 Version 0.1.0 - reviewable MVP for monitoring changes in Rancher 2.15.x.
 
-A Bash launcher and Python standard-library backend inventory monitoring, export configuration, prepare candidate values, and compare a replacement deployment with a baseline. Cluster operations are read-only. This is a support utility prototype, not a SUSE-certified migration mechanism.
+A Bash launcher and Python standard-library backend inventory monitoring, export configuration, prepare candidate values, and compare a replacement deployment with a baseline. Cluster operations are read-only. This is not a SUSE-certified migration mechanism.
 
 ## Requirements
 
